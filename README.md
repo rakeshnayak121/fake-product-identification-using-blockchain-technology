@@ -1,1 +1,2 @@
-# fake-product-identification-using-blockchain-technology
+# Mini-Project
+Fake-Product-Detection-Using-Blockchain
